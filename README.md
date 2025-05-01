@@ -9,7 +9,7 @@ A simple, interactive chatbot with a user-friendly graphical interface. ✨
 
 ## 🛠️ Installation & Usage  
 1️⃣ **Download and extract** the provided files 📂  
-2️⃣ **Run the chatbot executable (`ChatBotHG.exe`)** ▶️  
+2️⃣ **Run the chatbot executable (`ChatBot-2.0.exe`)** ▶️  
 3️⃣ **Start chatting through the GUI** and enjoy! 🗨️💡  
 
 ## 📌 Requirements  
